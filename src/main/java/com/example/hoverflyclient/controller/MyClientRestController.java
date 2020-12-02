@@ -18,6 +18,8 @@ public class MyClientRestController {
 		
 		//String response = restTemplate.
 		
+		return "hello";
+		
 	}
 
 }
