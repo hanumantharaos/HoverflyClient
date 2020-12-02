@@ -16,7 +16,7 @@ public class MyClientRestController {
 		
 		String url="http://localhost:9080/service/hoverfly";
 		
-		String response = restTemplate.
+		//String response = restTemplate.
 		
 	}
 
